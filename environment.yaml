@@ -1,0 +1,31 @@
+name: python-lite
+channels:
+  - defaults
+dependencies:
+  - bzip2=1.0.8=h620ffc9_4
+  - ca-certificates=2022.07.19=hca03da5_0
+  - certifi=2022.6.15=py310hca03da5_0
+  - libcxx=14.0.6=h848a8c0_0
+  - libffi=3.4.2=hc377ac9_4
+  - ncurses=6.3=h1a28f6b_3
+  - openssl=1.1.1q=h1a28f6b_0
+  - pip=22.1.2=py310hca03da5_0
+  - python=3.10.4=hbdb9e5c_0
+  - readline=8.1.2=h1a28f6b_1
+  - setuptools=63.4.1=py310hca03da5_0
+  - sqlite=3.39.2=h1058600_0
+  - tk=8.6.12=hb8d0fd4_0
+  - tzdata=2022c=h04d1e81_0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - xz=5.2.5=h1a28f6b_1
+  - zlib=1.2.12=h5a0b063_3
+  - pip:
+    - cloudpickle==2.2.0
+    - doit==0.36.0
+    - entrypoints==0.4
+    - importlib-metadata==4.12.0
+    - jupyter-core==4.11.1
+    - jupyterlite==0.1.0b12
+    - traitlets==5.4.0
+    - zipp==3.8.1
+prefix: /opt/homebrew/Caskroom/miniconda/base/envs/python-lite
