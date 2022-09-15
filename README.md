@@ -1,31 +1,15 @@
-# JupyterLite Demo
+# Juptyer Online at CodeSolid
 
-This is a demo site that will live on CodeSolid.com.
+This is a JupyterLite project allowing you to run Python and Jupyter in the browser Codesolid at [jupyter.codesolid.com](https://jupyter.codesolid.com/lab/index.html?path=index.ipynb)
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyter.codesolid.com/lab/index.html?path=index.ipynb)
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+This project is based on the awesome [JupyterLite](https://github.com/jupyterlite/jupyterlite) project, which uses WebAssembly and Pyodide to allow running a fast JupyterLab environment in the browser.
 
-## ✨ Try it in your browser ✨
+For a tutorial showing how I added this site to CodeSolid, check out [Jupyter Lite: Python in the Browser with Serverless Jupyter](https://codesolid.com/jupyter-lite-python-in-the-browser-with-serverless-jupyter/).
 
-➡️ **https://jupyterlite.github.io/demo**
+The source to this project is available here:
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+https://github.com/CodeSolid/python-online
 
-## Requirements
-
-JupyterLite is being tested against modern web browsers:
-
-- Firefox 90+
-- Chromium 89+
-
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+Please let me know if you see an issues. Such Jupyter content (in the content directory) that is not part of the [JupyterLite Demo project](https://github.com/jupyterlite/demo) is Copyright (c) 2022, John Lockwood and CodeSolid.com. Feel free to use any modifications I've made otherwise if you find them useful under a BSD license.  Thanks for reading!  
