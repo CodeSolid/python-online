@@ -5,7 +5,10 @@ node_modules/
 *.egg-info/
 .ipynb_checkpoints
 *.tsbuildinfo
-
+notes.md
+pypi/
+content/scratch
+.pyodide-xbuildenv
 # Created by https://www.gitignore.io/api/python
 # Edit at https://www.gitignore.io/?templates=python
 

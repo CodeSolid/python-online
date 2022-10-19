@@ -1,5 +1,6 @@
 # Juptyer Online at CodeSolid
 
+
 This is a JupyterLite project allowing you to run Python and Jupyter in the browser Codesolid at [jupyter.codesolid.com](https://jupyter.codesolid.com/lab/index.html?path=index.ipynb)
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyter.codesolid.com/lab/index.html?path=index.ipynb)
